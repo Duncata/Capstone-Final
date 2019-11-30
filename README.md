@@ -22,4 +22,22 @@ We Got 28 Columns For Revenue, Power Consumptions MWH, Number of Customers and P
 * tot_thous_dlrs - Total Power Revenue in thousand Dollars
 * tot_mwh - Total Power Consumption in Mega Watt Hour
 * tot_count - Total Number of Customers
-* tot_cents_kwh - Average Price in Kilo Watt Hour.
+* tot_cents_kwh - Average Price in Kilo Watt Hour
+
+# SLIDES
+
+![](Electrical%20Prediction%20Pictures/Annotation%202019-11-26%20201502.png)
+![](Electrical%20Prediction%20Pictures/Annotation%202019-11-26%20201547.png)
+![](Electrical%20Prediction%20Pictures/Annotation%202019-11-26%20201617.png)
+![](Electrical%20Prediction%20Pictures/Annotation%202019-11-26%20201650.png)
+![](Electrical%20Prediction%20Pictures/Annotation%202019-11-26%20201734.png)
+![](Electrical%20Prediction%20Pictures/Annotation%202019-11-26%20201905.png)
+![](Electrical%20Prediction%20Pictures/Annotation%202019-11-26%20201954.png)
+![](Electrical%20Prediction%20Pictures/Annotation%202019-11-26%20202035.png)
+![](Electrical%20Prediction%20Pictures/Annotation%202019-11-26%20202138.png)
+![](Electrical%20Prediction%20Pictures/Annotation%202019-11-26%20202435.png)
+![](Electrical%20Prediction%20Pictures/Annotation%202019-11-26%20202510.png)
+![](Electrical%20Prediction%20Pictures/Annotation%202019-11-26%20202605.png)
+![](Electrical%20Prediction%20Pictures/Annotation%202019-11-26%20202856.png)
+![](Electrical%20Prediction%20Pictures/Annotation%202019-11-26%20202935.png)
+![](Electrical%20Prediction%20Pictures/Annotation%202019-11-26%20203040.png)
